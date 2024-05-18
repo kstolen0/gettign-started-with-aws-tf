@@ -1,0 +1,4 @@
+.terraform
+aws-provider*.tf
+*.pem
+terraform.tfstate.backup
