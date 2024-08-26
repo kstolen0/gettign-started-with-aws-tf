@@ -2,3 +2,4 @@
 aws-provider*.tf
 *.pem
 terraform.tfstate.backup
+node_modules

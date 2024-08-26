@@ -1,0 +1,15 @@
+{
+  "name": "sample-node-project",
+  "version": "1.0.0",
+  "description": "A simple node project with a Dockerfile used for pushing to ecr.",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Don't even think about it.\" && exit 1"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
